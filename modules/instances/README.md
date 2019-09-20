@@ -1,1 +1,4 @@
-terraform module for instances and sriov instance
+terraform module for creating instance and sriov instance
+-----------------------------------------------------------
+
+

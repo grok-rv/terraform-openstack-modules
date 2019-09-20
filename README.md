@@ -8,4 +8,6 @@ Openstack provider = v1.22.0
 
 provider.vault: version = "~> 2.3"
 
+openstack provider credentials are stored on the vault dev server as kv secrets
+
 
