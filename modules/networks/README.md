@@ -1,1 +1,4 @@
-terraform module for networks and sriov networks
+terraform network module to create  network, sriov network, subnet, sriov subnet, secuirty group and ports
+------------------------------------------------------------------------------------------------------------
+
+
