@@ -2,7 +2,7 @@
 --------------------------------------------------------------------------------------------------------------
 This repo is for creating openstack infrastructure using modules for compute, network, storage resources and secrets using vault in dev environment and swift container backend
 
-# Requriments
+# Requirements
 -----------------------------------------------------------------------------------------------------
 Terraform version= v0.12.6
 
