@@ -12,5 +12,6 @@ provider.vault: version = "~> 2.3"
 
 openstack provider credentials are stored on the vault dev server as kv secrets
 
-
+# Issue 
+https://github.com/terraform-providers/terraform-provider-openstack/issues/733
 
